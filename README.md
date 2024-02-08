@@ -1,5 +1,4 @@
-# APD Project 1
-
+# Marching Squares Parallelized
 ## Author: Constantin Radu-Giorgian, 331CC
 
 The "tema1_par.c" file contains a program designed to detect contours in images using the Marching Squares algorithm parallelized with threads.
