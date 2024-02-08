@@ -33,4 +33,3 @@ For sampling and contour detection, start and end are set using the step variabl
 The thread function runs these modified functions. A barrier is included between execution stages to synchronize threads and prevent conflicts in accessing common resources.
 
 Other functions, not mentioned here, remain unchanged from the sequential version of the Marching Squares algorithm as presented in the "tema1.c" file. They retain their roles and functionality in the parallelized program version.
-# Marching-Squares-Parallelized
