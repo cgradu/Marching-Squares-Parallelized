@@ -1,5 +1,5 @@
 # Marching Squares Parallelized
-## Author: Constantin Radu-Giorgian
+**Author**: Constantin Radu-Giorgian
 
 The "tema1_par.c" file contains a program designed to detect contours in images using the Marching Squares algorithm parallelized with threads.
 
